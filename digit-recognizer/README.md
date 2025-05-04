@@ -1,4 +1,4 @@
-# Natural Language Processing with Disaster Tweets
+# Digit Recognizer
 
 This project is based on the Kaggle competition ["Digit Recognizer"](https://www.kaggle.com/competitions/digit-recognizer).
 The goal is to classify images of handwritten digits (0–9) using the classic MNIST dataset.
