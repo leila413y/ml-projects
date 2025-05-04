@@ -10,9 +10,8 @@ This project is based on the Kaggle competition ["House Prices - Advanced Regres
 - **Challenge Type**: Regression
 
 ## Key Skills Used
-- Handling missing data and categorical variables
-- Peprocessing (feature selection and target skewness)
-- Models: regularized linear models (Ridge, Lasso), tree-based models (Random Forest, Gradient Boosting (XGBoost, LightGBM))
+- **Peprocessing**: handling missing data and categorical variables, feature selection, handling skewness
+- **Models**: regularized linear models (Ridge, Lasso), tree-based models (Random Forest, Gradient Boosting (XGBoost, LightGBM))
 
 ## Results
 Final submission achieved a score of 0.12951.
