@@ -1,20 +1,20 @@
 # Natural Language Processing with Disaster Tweets
 
-This project is based on the Kaggle competition ["Natural Language Processing with Disaster Tweets"](https://www.kaggle.com/competitions/nlp-getting-started). The goal is to classify whether a given tweet is about a real disaster or not. This project experiments with different embedding techniques, such as TF-IDF and Word2Vec, and applies models like Logistic Regression, GRU, and LSTM.
+This project is based on the Kaggle competition ["Digit Recognizer"](https://www.kaggle.com/competitions/digit-recognizer).
+The goal is to classify images of handwritten digits (0–9) using the classic MNIST dataset.
 
 ## Project Overview
 
-- **Objective**: Predict which tweets refer to real disasters.
-- **Dataset**: 10,000 hand-labeled tweets.
-- **Metric**: F1 Score
-- **Challenge Type**: Text classification (binary classification)
+- **Objective**: Identify digits in grayscale handwritten images.
+- **Dataset**: MNIST dataset with pre-extracted 28x28 pixel grayscale images.
+- **Metric**: Classification accuracy
+- **Challenge Type**: Image classification
 
 ## Key Skills Used
-- **Text Preprocessing**: tokenization, lowercasing, removing stop words, stemming/lemmatization
-- **Feature Engineering**: TF-IDF, word embeddings
-- **Models**: Logistic Regression, GRU, LSTM
+- **Image Preprocessing**: normalization
+- **Models**: Logistic Regression, CNN
 
 ## Results
-Final model achieved a F1 score of 0.79221.
+Final model achieved an accuracy of 0.99453.
 
-*last update on 2025/03/21*
+*last update on 2025/03/27*
