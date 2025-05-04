@@ -10,7 +10,7 @@ This project is based on the Kaggle competition ["Natural Language Processing wi
 - **Challenge Type**: Text classification (binary classification)
 
 ## Key Skills Used
-- **Text Preprocessing**: tokenization, lowercasing, removing stop words, stemming/lemmatization
+- **Text Preprocessing**: tokenization, removing stop words, stemming/lemmatization
 - **Feature Engineering**: TF-IDF, word embeddings
 - **Models**: Logistic Regression, GRU, LSTM
 
