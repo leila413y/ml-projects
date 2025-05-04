@@ -11,7 +11,7 @@ This project is based on the Kaggle competition ["Natural Language Processing wi
 
 ## Key Skills Used
 - **Text Preprocessing**: tokenization, removing stop words, stemming/lemmatization
-- **Feature Engineering**: TF-IDF, word embeddings
+- **Feature Engineering**: TF-IDF, Word2Vec
 - **Models**: Logistic Regression, GRU, LSTM
 
 ## Results
