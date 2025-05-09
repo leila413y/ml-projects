@@ -3,9 +3,9 @@
 ## ⚡ Project Highlights
 | Project | Description | Tools & Topics |
 |---------|-------------|-------|
-| [House Price Prediction](https://github.com/leila413y/ml-projects/blob/main/house-prices/house_prices.ipynb) | Regression model to predict housing prices with comprehensive EDA | XGBoost, LightGBM |
-| [Disaster Tweet Classifier](https://github.com/leila413y/ml-projects/blob/main/nlp-with-disaster-tweets/nlp_with_disaster_tweets.ipynb) | Deep learning model to classify tweets as disaster-related or not | TF-IDF, Word2Vec, GRU, LSTM |
-| [Digit Recognizer](https://github.com/leila413y/ml-projects/blob/main/digit-recognizer/digit_recognizer.ipynb) | CNN to classify handwritten digits | CNN |
+| [House Price Prediction](https://github.com/leila413y/ml-projects/blob/main/house-prices/README.md) | Regression model to predict housing prices with comprehensive EDA | XGBoost, LightGBM |
+| [Disaster Tweet Classifier](https://github.com/leila413y/ml-projects/blob/main/nlp-with-disaster-tweets/README.md) | Deep learning model to classify tweets as disaster-related or not | TF-IDF, Word2Vec, GRU, LSTM |
+| [Digit Recognizer](https://github.com/leila413y/ml-projects/blob/main/digit-recognizer/README.md) | CNN to classify handwritten digits | CNN |
 
 
 
